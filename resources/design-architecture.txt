@@ -1,0 +1,150 @@
+Below is a comprehensive sitemap and suggested website architecture for the Chicago Career Collective website. It organizes all important details from the document and optimizes user flow, clarity, and engagement.
+Chicago Career Collective Website Sitemap & Architecture
+1. Homepage
+
+    Hero Section
+
+        Headline: “Unlock Your Career Potential, CREATE CHANGE”
+
+        Subheadline: "Personalized career coaching to help you future-proof your career in the age of AI and automation."
+
+        Call-to-Action (CTA) Button: “Get Started” or “Book a Session”
+
+        Background image or professional photo reflecting career development & diversity
+
+    Introduction / Overview
+
+        Brief description of Chicago Career Collective’s mission and values (rooted in equity, strategy, human-centered)
+
+        Highlight adapting to AI and automation impacts on careers
+
+    Services at a Glance
+
+        Quick summary of key offerings:
+
+            Career assessment & job search strategies
+
+            Interview coaching
+
+            Resume development & LinkedIn optimization
+
+            AI-focused services
+
+        CTA button linking to Services page
+
+    Why Choose Us?
+
+        Short statement on personalized support and founder’s background story
+
+    Testimonials / Social Proof (if available)
+
+    Contact/Sign-Up teaser
+
+        Invitation to schedule a consultation or get in touch
+
+2. About Us
+
+    Our Story
+
+        Founder’s background: career services since age 20, passion for helping others
+
+        Commitment to equity, strategy, and real transformation
+
+        How the practice was created
+
+    Our Mission & Vision
+
+        Supporting clients with AI and automation changes
+
+        Focus on diverse populations—from recent grads to mid-career changers, creatives, tech pros, nonprofit leaders
+
+    Our Approach
+
+        Human-centered, thoughtful, supportive career coaching
+
+3. Services
+
+    Overview Introduction
+
+        Explanation of how services help clients future-proof their careers
+
+    Detailed Services List
+
+        One-on-One Career Coaching
+
+            Strategic Job Search Session: 60 min – $75
+
+                Description (e.g., strategy for job searching effectively)
+
+            Resume or LinkedIn Strategy Session: 60 min – $85
+
+                Description (e.g., optimize resumes/LinkedIn profiles for transferable skills)
+
+            AI Resume + LinkedIn Overhaul: Two sessions + edits – $135
+
+                Description (e.g., leveraging AI to enhance resume and profile)
+
+            Intro to AI Tools for Job Seekers: 60 min (1:1) – $65
+
+                Description (e.g., training on AI tools relevant to job search)
+
+    Booking/Contact CTA for scheduling sessions
+
+4. Resources / Blog (optional but recommended)
+
+    Articles and tips on:
+
+        Navigating careers in AI and automation age
+
+        Upskilling and retraining
+
+        Job search strategies
+
+        Resume and LinkedIn optimization
+
+        AI tools for job seekers
+
+5. Contact Us
+
+    Contact form (Name, Email, Message)
+
+    Phone number and/or email address (if available)
+
+    Location (Chicago Career Collective, LLC) – although client base might be remote or regional
+
+    Social media links (if any)
+
+6. FAQ (optional but helpful)
+
+    Common questions about career coaching
+
+    What to expect from sessions
+
+    Payment and scheduling policies
+
+7. Footer (visible on all pages)
+
+    Quick links: Home, About, Services, Resources, Contact
+
+    Social media icons (if applicable)
+
+    Privacy policy link (if available)
+
+    Copyright / Business info
+
+Design Elements Suggestions
+
+    Consistent branding colors that convey trust, professionalism, and approachability. Possibly blue/teal with accent colors.
+
+    Clean, modern typography for readability
+
+    High-quality images showcasing diverse professionals, technology/AI themes, and coaching scenarios
+
+    Clear CTAs on every page to drive engagement and bookings
+
+    Mobile-friendly responsive design for accessibility
+
+    Use icons or graphics to highlight benefits and services
+
+    Testimonials or success stories to build trust (if you have them)
+
