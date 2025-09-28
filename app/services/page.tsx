@@ -5,7 +5,6 @@ import PricingHeader from './(components)/PricingHeader';
 import IndividualSessions from './(components)/IndividualSessions';
 import PackageDeals from './(components)/PackageDeals';
 import AIDrivenServices from './(components)/AIDrivenServices';
-import GroupCoaching from './(components)/GroupCoaching';
 import AccessibilityNote from './(components)/AccessibilityNote';
 import CallToAction from '@/components/CallToAction';
 
@@ -22,7 +21,7 @@ export default function Services() {
           <IndividualSessions />
           <PackageDeals />
           <AIDrivenServices />
-          <GroupCoaching />
+          {/*<GroupCoaching />*/}
           <AccessibilityNote />
           <CallToAction />
         </div>

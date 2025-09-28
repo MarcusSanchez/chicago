@@ -1,14 +1,14 @@
-import { Phone, Mail, MapPin, Clock } from 'lucide-react';
+import { Clock, Mail, MapPin, Phone } from 'lucide-react';
 
 export default function ContactInfo() {
   return (
     <div>
       <h2 className="text-3xl font-bold text-[#002552] mb-6">Get In Touch</h2>
       <p className="text-gray-700 mb-8 leading-relaxed">
-        Multiple ways to connect with us. We're here to help you take the next step 
+        Multiple ways to connect with us. We're here to help you take the next step
         in your career journey.
       </p>
-      
+
       <div className="space-y-6 mb-8">
         <div className="flex items-center p-6 bg-white rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
           <div className="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center mr-4">
@@ -20,7 +20,7 @@ export default function ContactInfo() {
             <p className="text-gray-500 text-sm">Mon-Fri: 9 AM - 6 PM CST</p>
           </div>
         </div>
-        
+
         <div className="flex items-center p-6 bg-white rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
           <div className="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center mr-4">
             <Mail className="w-6 h-6 text-[#002552]" />
@@ -31,7 +31,7 @@ export default function ContactInfo() {
             <p className="text-gray-500 text-sm">24-hour response time</p>
           </div>
         </div>
-        
+
         <div className="flex items-center p-6 bg-white rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
           <div className="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center mr-4">
             <MapPin className="w-6 h-6 text-[#002552]" />
@@ -43,7 +43,7 @@ export default function ContactInfo() {
           </div>
         </div>
       </div>
-      
+
       {/* Office Hours */}
       <div className="bg-[#fefaf7] rounded-xl p-6 border border-yellow-200">
         <div className="flex items-center mb-4">
@@ -57,15 +57,7 @@ export default function ContactInfo() {
         </div>
         <div className="space-y-2">
           <div className="flex justify-between items-center py-2">
-            <span className="font-medium text-[#002552]">Monday - Friday:</span>
-            <span className="text-gray-700">9:00 AM - 6:00 PM</span>
-          </div>
-          <div className="flex justify-between items-center py-2">
-            <span className="font-medium text-[#002552]">Saturday:</span>
-            <span className="text-gray-700">10:00 AM - 2:00 PM</span>
-          </div>
-          <div className="flex justify-between items-center py-2">
-            <span className="font-medium text-[#002552]">Sunday:</span>
+            <span className="font-medium text-[#002552]">Monday - Sunday:</span>
             <span className="text-gray-700">By Appointment</span>
           </div>
         </div>

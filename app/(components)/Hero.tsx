@@ -1,9 +1,9 @@
-import { ArrowRight, Users, Star, Award } from 'lucide-react';
+import { ArrowRight, Award, Star, Users } from 'lucide-react';
 
 export default function Hero() {
   return (
     <section className="relative min-h-[calc(100vh-115px)] flex items-center">
-      <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(0, 37, 82, 0.7), rgba(0, 37, 82, 0.7)), url('/skyline.jpg')"}}></div>
+      <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "linear-gradient(rgba(0, 37, 82, 0.7), rgba(0, 37, 82, 0.7)), url('/skyline.jpg')" }}></div>
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="text-white">
@@ -12,7 +12,7 @@ export default function Hero() {
               <span className="block text-yellow-400">Career Journey</span>
             </h1>
             <p className="text-xl text-gray-200 mb-8 leading-relaxed">
-              Professional coaching services designed to unlock your potential and accelerate your success in the heart of Chicago's dynamic business landscape.
+              Professional coaching services designed to unlock your potential and accelerate your success from the heart of Chicago's dynamic business landscape.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 mb-12">
               <button className="bg-yellow-400 text-[#002552] px-8 py-4 rounded-lg font-semibold hover:bg-yellow-300 transition-colors flex items-center justify-center group">
@@ -54,15 +54,21 @@ export default function Hero() {
               <div className="space-y-3">
                 <div className="flex items-center text-white">
                   <div className="w-2 h-2 bg-yellow-400 rounded-full mr-3"></div>
-                  <span>Personalized Career Strategy</span>
+                  <span>
+                    Career Strategy & Planning
+                  </span>
                 </div>
                 <div className="flex items-center text-white">
                   <div className="w-2 h-2 bg-yellow-400 rounded-full mr-3"></div>
-                  <span>Executive Leadership Development</span>
+                  <span>Interview & Salary Negotation Mastery</span>
                 </div>
                 <div className="flex items-center text-white">
                   <div className="w-2 h-2 bg-yellow-400 rounded-full mr-3"></div>
                   <span>Interview & Negotiation Mastery</span>
+                </div>
+                <div className="flex items-center text-white">
+                  <div className="w-2 h-2 bg-yellow-400 rounded-full mr-3"></div>
+                  <span>Workforce Resilience Programs</span>
                 </div>
               </div>
             </div>

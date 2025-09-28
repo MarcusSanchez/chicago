@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { MapPin, Phone, Mail, Linkedin, Twitter, Facebook, Instagram } from 'lucide-react';
+import { Facebook, Instagram, Linkedin, Mail, MapPin, Phone, Twitter } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -17,8 +17,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              Empowering Chicago professionals with personalized career coaching, strategic guidance, 
-              and AI-ready solutions for the future of work.
+              Empowering professionals with personalized career coaching, strategic guidance, and AI-ready solutions for the future of work.
             </p>
             <div className="flex space-x-4">
               <Link href="#" className="text-gray-300 hover:text-yellow-400 transition-colors">
@@ -92,11 +91,6 @@ export default function Footer() {
                   AI-Driven Services
                 </Link>
               </li>
-              <li>
-                <Link href="/services#group-coaching" className="text-gray-300 hover:text-yellow-400 transition-colors">
-                  Group Coaching
-                </Link>
-              </li>
             </ul>
           </div>
 
@@ -124,13 +118,11 @@ export default function Footer() {
                 </Link>
               </div>
             </div>
-            
+
             <div className="mt-8">
               <h5 className="text-sm font-semibold mb-3 text-yellow-400">Office Hours</h5>
               <div className="text-gray-300 text-sm space-y-1">
-                <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
-                <p>Saturday: 10:00 AM - 2:00 PM</p>
-                <p>Sunday: By Appointment</p>
+                <p>Monday - Sunday: By Appointment</p>
               </div>
             </div>
           </div>

@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { MapPin, Phone, Mail, Menu } from 'lucide-react';
+import { Mail, MapPin, Menu, Phone } from 'lucide-react';
 
 export default function Header() {
   return (
@@ -24,12 +24,12 @@ export default function Header() {
               </div>
             </div>
             <div className="hidden md:block">
-              <span className="text-gray-300">Empowering Chicago Professionals</span>
+              <span className="text-gray-300">Rooted in Chicago, Serving Professionals Nationwide</span>
             </div>
           </div>
         </div>
       </div>
-      
+
       {/* Sticky Navigation */}
       <div className="bg-[#002552] text-white shadow-lg sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
